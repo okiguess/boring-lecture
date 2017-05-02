@@ -1,0 +1,13 @@
+h2.intro {
+  font-style:bold;
+  color: red;
+}
+
+p.intro {
+   font-style:italic;
+}
+
+img.intro {
+  text-align:center;
+  height:75px
+}
