@@ -1,13 +1,13 @@
-h2.intro {
+.intro h2 {
   font-style:bold;
   color: red;
 }
 
-p.intro {
+.intro p{
    font-style:italic;
 }
 
-img.intro {
+.intro img {
   text-align:center;
   height:75px
 }
